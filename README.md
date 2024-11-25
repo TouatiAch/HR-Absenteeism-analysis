@@ -10,18 +10,11 @@ This Power BI dashboard analyzes employee absenteeism data, identifying key tren
 
 ## Key Features
 - **SQL Database Integration**: Connected Power BI to an SQL database for dynamic data retrieval.
-- **Data Transformation**: Cleaned and preprocessed absenteeism data using Power Query.
-- **DAX Measures**: Calculated absenteeism rates and trends using custom DAX measures.
 - **Visualizations**:
-  - Line charts for absenteeism trends over time.
-  - Bar charts for absenteeism by department and reason.
-  - Slicers for analyzing data by role, department, and time period.
-
+  - Line charts.
 ## Tools & Technologies
 - **Power BI Desktop**
 - **SQL Database**
-- **Power Query**
-- **DAX**
 
 ## How to Access
 1. Clone this repository or download the `.pbix` file.
@@ -29,7 +22,6 @@ This Power BI dashboard analyzes employee absenteeism data, identifying key tren
 
 ## Results
 - Identified departments with high absenteeism rates, enabling targeted interventions.
-- Delivered actionable insights into the reasons behind absenteeism, supporting HR decision-making.
 
 ## Tags
 Power BI | HR Analytics | Absenteeism | SQL | Data Visualization | DAX
